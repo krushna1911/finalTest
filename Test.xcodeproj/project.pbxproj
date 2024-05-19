@@ -13,6 +13,8 @@
 		1B925EFF2BF97C740096E8A8 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 1B925EFE2BF97C740096E8A8 /* Base */; };
 		1B925F012BF97C760096E8A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B925F002BF97C760096E8A8 /* Assets.xcassets */; };
 		1B925F042BF97C760096E8A8 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 1B925F032BF97C760096E8A8 /* Base */; };
+		1B925F0C2BF985B60096E8A8 /* View2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1B925F0B2BF985B60096E8A8 /* View2.xib */; };
+		1B925F0E2BF986290096E8A8 /* View2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B925F0D2BF986290096E8A8 /* View2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		1B925F002BF97C760096E8A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B925F032BF97C760096E8A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B925F052BF97C760096E8A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B925F0B2BF985B60096E8A8 /* View2.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = View2.xib; sourceTree = "<group>"; };
+		1B925F0D2BF986290096E8A8 /* View2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				1B925F002BF97C760096E8A8 /* Assets.xcassets */,
 				1B925F022BF97C760096E8A8 /* LaunchScreen.storyboard */,
 				1B925F052BF97C760096E8A8 /* Info.plist */,
+				1B925F0B2BF985B60096E8A8 /* View2.xib */,
+				1B925F0D2BF986290096E8A8 /* View2.swift */,
 			);
 			path = Test;
 			sourceTree = "<group>";
@@ -128,6 +134,7 @@
 				1B925F012BF97C760096E8A8 /* Assets.xcassets in Resources */,
 				1B925F042BF97C760096E8A8 /* Base in Resources */,
 				1B925EFF2BF97C740096E8A8 /* Base in Resources */,
+				1B925F0C2BF985B60096E8A8 /* View2.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +148,7 @@
 				1B925EFC2BF97C740096E8A8 /* ViewController.swift in Sources */,
 				1B925EF82BF97C740096E8A8 /* AppDelegate.swift in Sources */,
 				1B925EFA2BF97C740096E8A8 /* SceneDelegate.swift in Sources */,
+				1B925F0E2BF986290096E8A8 /* View2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
